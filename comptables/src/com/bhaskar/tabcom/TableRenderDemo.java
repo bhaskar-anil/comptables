@@ -251,6 +251,8 @@ public class TableRenderDemo extends JPanel {
         frame.setContentPane(newContentPane);
 
         //Display the window.
+        
+        
         frame.pack();
         frame.setVisible(true);
     }
